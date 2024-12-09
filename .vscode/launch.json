@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/open-meadow/Desktop/algoma/unix/lecture_7",
-      "program": "/home/open-meadow/Desktop/algoma/unix/lecture_7/build/Debug/outDebug",
+      "cwd": "/home/open-meadow/Desktop/algoma/cosc2396_unix-and-system-programming/random",
+      "program": "/home/open-meadow/Desktop/algoma/cosc2396_unix-and-system-programming/random/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
